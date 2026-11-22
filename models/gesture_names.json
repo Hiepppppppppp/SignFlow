@@ -1,0 +1,242 @@
+{
+  "Like": {
+    "name": "Like / Thumbs Up",
+    "vietnamese": "Thích (Ngón cái giơ lên)",
+    "description": "Ngón cái giơ lên thẳng đứng, 4 ngón còn lại nắm chặt vào lòng bàn tay",
+    "category": "common"
+  },
+  "Dislike": {
+    "name": "Dislike / Thumbs Down",
+    "vietnamese": "Không thích (Ngón cái chúc xuống)",
+    "description": "Ngón cái chúc thẳng xuống dưới, 4 ngón còn lại nắm chặt",
+    "category": "common"
+  },
+  "OK": {
+    "name": "OK Sign",
+    "vietnamese": "Dấu OK (Vòng tròn ngón cái + trỏ)",
+    "description": "Ngón cái và ngón trỏ chạm nhau tạo thành vòng tròn, 3 ngón còn lại xòe thẳng",
+    "category": "common"
+  },
+  "Peace": {
+    "name": "Peace / Victory",
+    "vietnamese": "Hòa bình / Chữ V",
+    "description": "Ngón trỏ và ngón giữa giơ thẳng hình chữ V, ngón cái giữ các ngón khác",
+    "category": "common"
+  },
+  "Fist": {
+    "name": "Fist / Punch",
+    "vietnamese": "Nắm đấm",
+    "description": "Cả 5 ngón tay nắm chặt thành nắm đấm",
+    "category": "common"
+  },
+  "Open_Palm": {
+    "name": "Open Palm / Stop",
+    "vietnamese": "Bàn tay mở / Dừng lại",
+    "description": "Bàn tay mở rộng, cả 5 ngón duỗi thẳng hướng về trước",
+    "category": "common"
+  },
+  "Call_Me": {
+    "name": "Call Me / Shaka",
+    "vietnamese": "Gọi điện / Shaka",
+    "description": "Ngón cái và ngón út giơ ra ngoài, 3 ngón giữa gập lại",
+    "category": "common"
+  },
+  "Three": {
+    "name": "Three Fingers",
+    "vietnamese": "Ba ngón",
+    "description": "Ngón trỏ, giữa, áp út giơ thẳng, ngón cái giữ ngón út",
+    "category": "common"
+  },
+  "Point_Up": {
+    "name": "Point Up",
+    "vietnamese": "Chỉ ngón trỏ lên (Số 1)",
+    "description": "Chỉ riêng ngón trỏ chỉ thẳng lên trên, các ngón khác nắm chặt",
+    "category": "common"
+  },
+  "Rock": {
+    "name": "Rock On",
+    "vietnamese": "Biểu tượng Rock (Sừng dê)",
+    "description": "Ngón trỏ và ngón út giơ thẳng, ngón giữa và áp út gập, ngón cái giữ",
+    "category": "common"
+  },
+  "I_Love_You": {
+    "name": "I Love You",
+    "vietnamese": "Ký hiệu I Love You",
+    "description": "Ngón cái, ngón trỏ và ngón út giơ thẳng, 2 ngón giữa gập",
+    "category": "common"
+  },
+  "A": {
+    "name": "Letter A",
+    "vietnamese": "Chữ A (Nắm đấm, ngón cái thẳng cạnh trỏ)",
+    "description": "Nắm các ngón tay lại thành nắm đấm, ngón cái áp thẳng đứng cạnh ngón trỏ",
+    "category": "asl"
+  },
+  "B": {
+    "name": "Letter B",
+    "vietnamese": "Chữ B (Bàn tay 4 ngón thẳng, ngón cái gập)",
+    "description": "4 ngón tay duỗi thẳng khép sát, ngón cái gập ngang lòng bàn tay",
+    "category": "asl"
+  },
+  "C": {
+    "name": "Letter C",
+    "vietnamese": "Chữ C (Khum tay hình chữ C)",
+    "description": "Tất cả các ngón tay khum cong lại tạo thành hình chữ C",
+    "category": "asl"
+  },
+  "D": {
+    "name": "Letter D",
+    "vietnamese": "Chữ D (Ngón trỏ chỉ thẳng, 3 ngón chạm cái)",
+    "description": "Chỉ riêng ngón trỏ chỉ thẳng lên trên, ngón cái chạm đầu các ngón còn lại",
+    "category": "asl"
+  },
+  "E": {
+    "name": "Letter E",
+    "vietnamese": "Chữ E (Móng vuốt / Gập các đầu ngón)",
+    "description": "Các đầu ngón tay co gập chạm vào cạnh ngón cái như hình móng vuốt",
+    "category": "asl"
+  },
+  "F": {
+    "name": "Letter F / OK",
+    "vietnamese": "Chữ F (Dấu OK / 3 ngón xòe)",
+    "description": "Ngón cái và ngón trỏ chạm nhau tạo vòng tròn, 3 ngón còn lại duỗi thẳng",
+    "category": "asl"
+  },
+  "G": {
+    "name": "Letter G",
+    "vietnamese": "Chữ G (Ngón cái và trỏ chỉ ngang)",
+    "description": "Ngón cái và ngón trỏ duỗi song song chỉ sang bên hoặc về phía trước",
+    "category": "asl"
+  },
+  "H": {
+    "name": "Letter H",
+    "vietnamese": "Chữ H (Hai ngón duỗi ngang song song)",
+    "description": "Ngón trỏ và ngón giữa duỗi thẳng khép sát chỉ ngang, các ngón khác gập",
+    "category": "asl"
+  },
+  "I": {
+    "name": "Letter I",
+    "vietnamese": "Chữ I (Chỉ ngón út thẳng lên)",
+    "description": "Chỉ riêng ngón út duỗi thẳng lên trên, các ngón khác nắm lại",
+    "category": "asl"
+  },
+  "J": {
+    "name": "Letter J",
+    "vietnamese": "Chữ J (Ngón út vẽ chữ J)",
+    "description": "Ngón út duỗi thẳng và vẽ một nét cong hình chữ J trong không khí",
+    "category": "asl"
+  },
+  "K": {
+    "name": "Letter K",
+    "vietnamese": "Chữ K (Ngón trỏ lên, giữa hướng trước)",
+    "description": "Ngón trỏ chỉ lên, ngón giữa chĩa về trước, ngón cái tì vào khớp ngón giữa",
+    "category": "asl"
+  },
+  "L": {
+    "name": "Letter L / L-Sign",
+    "vietnamese": "Chữ L (Góc vuông 90 độ)",
+    "description": "Ngón cái và ngón trỏ tạo góc vuông 90 độ như chữ L, 3 ngón còn lại gập",
+    "category": "asl"
+  },
+  "M": {
+    "name": "Letter M",
+    "vietnamese": "Chữ M (Ba ngón gập đè ngón cái)",
+    "description": "Ba ngón (trỏ, giữa, áp út) gập đè lên ngón cái, ngón út gập",
+    "category": "asl"
+  },
+  "N": {
+    "name": "Letter N",
+    "vietnamese": "Chữ N (Hai ngón gập đè ngón cái)",
+    "description": "Hai ngón (trỏ, giữa) gập đè lên ngón cái, ngón áp út và út gập",
+    "category": "asl"
+  },
+  "O": {
+    "name": "Letter O",
+    "vietnamese": "Chữ O (Khum tròn các ngón)",
+    "description": "Tất cả các đầu ngón tay khum cong lại chạm ngón cái tạo thành hình tròn chữ O",
+    "category": "asl"
+  },
+  "P": {
+    "name": "Letter P",
+    "vietnamese": "Chữ P (Chữ K chúc đầu ngón xuống)",
+    "description": "Hình dáng chữ K nhưng chúc các đầu ngón tay xuống phía dưới",
+    "category": "asl"
+  },
+  "Q": {
+    "name": "Letter Q",
+    "vietnamese": "Chữ Q (Ngón cái & trỏ chúc xuống)",
+    "description": "Ngón cái và ngón trỏ chĩa thẳng xuống dưới song song",
+    "category": "asl"
+  },
+  "R": {
+    "name": "Letter R",
+    "vietnamese": "Chữ R (Bắt chéo ngón / Chúc may mắn)",
+    "description": "Ngón trỏ và ngón giữa bắt chéo vào nhau, các ngón khác gập",
+    "category": "asl"
+  },
+  "S": {
+    "name": "Letter S / Fist",
+    "vietnamese": "Chữ S (Nắm đấm / Ngón cái vắt qua)",
+    "description": "Cả 5 ngón tay nắm chặt thành nắm đấm, ngón cái vắt ngang qua các ngón",
+    "category": "asl"
+  },
+  "T": {
+    "name": "Letter T",
+    "vietnamese": "Chữ T (Ngón cái kẹp thò giữa trỏ & giữa)",
+    "description": "Nắm đấm với đầu ngón cái kẹp thò ra giữa ngón trỏ và ngón giữa",
+    "category": "asl"
+  },
+  "U": {
+    "name": "Letter U",
+    "vietnamese": "Chữ U (Hai ngón chụm thẳng lên)",
+    "description": "Ngón trỏ và ngón giữa duỗi thẳng khép sát vào nhau hướng lên trên",
+    "category": "asl"
+  },
+  "V": {
+    "name": "Letter V / Peace",
+    "vietnamese": "Chữ V (Hòa bình / 2 ngón xòe)",
+    "description": "Ngón trỏ và ngón giữa duỗi thẳng tách nhau tạo thành hình chữ V",
+    "category": "asl"
+  },
+  "W": {
+    "name": "Letter W / Three",
+    "vietnamese": "Chữ W (Ba ngón xòe / Số 3)",
+    "description": "Ba ngón (trỏ, giữa, áp út) duỗi thẳng xòe ra, ngón cái giữ ngón út",
+    "category": "asl"
+  },
+  "X": {
+    "name": "Letter X",
+    "vietnamese": "Chữ X (Ngón trỏ móc / Lưỡi câu)",
+    "description": "Ngón trỏ co gập lại như hình lưỡi câu, các ngón khác nắm chặt",
+    "category": "asl"
+  },
+  "Y": {
+    "name": "Letter Y / Call Me",
+    "vietnamese": "Chữ Y (Alo / Ngón cái và út giơ ra)",
+    "description": "Ngón cái và ngón út giơ thẳng ra ngoài, 3 ngón giữa gập lại (Shaka)",
+    "category": "asl"
+  },
+  "Z": {
+    "name": "Letter Z / Point",
+    "vietnamese": "Chữ Z (Chỉ ngón trỏ / Vẽ chữ Z)",
+    "description": "Ngón trỏ chỉ thẳng về phía trước để vẽ chữ Z",
+    "category": "asl"
+  },
+  "space": {
+    "name": "Space / Open Palm",
+    "vietnamese": "Dấu cách / Bàn tay mở (Dừng lại)",
+    "description": "Cả 5 ngón tay duỗi thẳng hướng về phía camera (Dấu cách / Dừng lại)",
+    "category": "special"
+  },
+  "del": {
+    "name": "Delete",
+    "vietnamese": "Xóa ký tự (Delete)",
+    "description": "Bàn tay thực hiện cử chỉ gạt hoặc thu gọn ngón tay để xóa ký tự",
+    "category": "special"
+  },
+  "nothing": {
+    "name": "No Hand",
+    "vietnamese": "Không có tay",
+    "description": "Không phát hiện bàn tay nào trong khung hình",
+    "category": "special"
+  }
+}
